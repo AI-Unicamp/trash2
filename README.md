@@ -4,9 +4,9 @@
 
 ### Teaching materials, NeurIPS 2026 Education Track
 
-<!-- DOI badge pending: replace with the new Zenodo record before packaging the ZIP -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22313823.svg)](https://doi.org/10.5281/zenodo.22313823)
 
-The permanent, citable archive is <DOI pending>, the concept DOI, which always resolves to the newest version. The live development repo is https://github.com/AI-Unicamp/can_we_trust_ai_outputs.
+The permanent, citable archive is https://doi.org/10.5281/zenodo.22313823, the concept DOI, which always resolves to the newest version. The live development repo is https://github.com/AI-Unicamp/can_we_trust_ai_outputs.
 
 ## The concept
 
@@ -87,4 +87,4 @@ First-year university through advanced undergraduate, and first-time NeurIPS att
 
 Created for the NeurIPS 2026 Education Track by Davi Pincinato and Paula Dornhofer Paro Costa (UNICAMP, Campinas, Brazil). Code is MIT (`LICENSE-CODE`). Prose, figures, the synthetic records and the recorded attempts are CC BY 4.0 (`LICENSE-CONTENT`). Reuse and adaptation by educators is explicitly welcome under those terms; attribution is all that is asked.
 
-**How to cite.** Pincinato, D. and Costa, P. D. P. (2026). *Can we trust AI outputs? Learning what deterministic verifiers can, and cannot, guarantee.* Teaching materials, NeurIPS 2026 Education Track. <DOI pending>
+**How to cite.** Pincinato, D. and Costa, P. D. P. (2026). *Can we trust AI outputs? Learning what deterministic verifiers can, and cannot, guarantee.* Teaching materials, NeurIPS 2026 Education Track. https://doi.org/10.5281/zenodo.22313823
