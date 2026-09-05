@@ -1,0 +1,23 @@
+{
+  "title": "Can we trust AI outputs? Learning what deterministic verifiers can, and cannot, guarantee",
+  "upload_type": "lesson",
+  "description": "<p>Teaching materials for the NeurIPS 2026 Education Track. The lesson comes in two formats: a self-contained Jupyter notebook (ipywidgets) and a single HTML page that runs Python in the browser through Pyodide. Learners build a deterministic verifier for de-identifying four synthetic patient records, close a generate-verify-feedback-retry loop, and meet the verifier's limits: loud and quiet failures, string gaps and world gaps, and how an imperfect verifier becomes a training reward (RLVR, reward hacking). A facilitator guide is included.</p><p>Code is released under MIT (LICENSE-CODE). Prose, figures, synthetic records and recorded model attempts are CC BY 4.0 (LICENSE-CONTENT). All records are invented; no real person is represented.</p>",
+  "creators": [
+    {"name": "Pincinato, Davi", "affiliation": "Universidade Estadual de Campinas (UNICAMP)"},
+    {"name": "Costa, Paula Dornhofer Paro", "affiliation": "Universidade Estadual de Campinas (UNICAMP)"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.0",
+  "keywords": [
+    "verifiable rewards",
+    "RLVR",
+    "reward hacking",
+    "deterministic verification",
+    "de-identification",
+    "LLM evaluation",
+    "education",
+    "NeurIPS 2026"
+  ]
+}
