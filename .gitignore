@@ -1,10 +1,9 @@
 # Whitelist: only the six files of the NeurIPS 2026 Education Track package are tracked.
-# Everything else in this folder (paper/, backup/, gemini/, gestão/, .claude/,
+# Everything else in this folder (paper/, backup/, gemini/, gestão/,
 # Formatting_Instructions_For_NeurIPS_2026/, ZIPs, .DS_Store, ...) stays local.
 
 *
 
 !.gitignore
 !.zenodo.json
-.claude/
 paper/
