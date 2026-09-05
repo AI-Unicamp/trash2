@@ -1,0 +1,28 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Davi Pincinato and Paula Dornhofer Paro Costa
+
+This work is licensed under the Creative Commons Attribution 4.0 International
+License. To view a copy of this license, visit
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to share and adapt this material for any purpose, including
+commercially, as long as you give appropriate credit, provide a link to the
+license, and indicate if changes were made.
+
+---
+
+Applies to: the prose in the markdown cells of `can_we_trust_ai_outputs.ipynb` and in
+`can_we_trust_ai_outputs.html`; the inline SVG figures; the four synthetic
+patient records (REC-001 to REC-004), their identifier and clinical-fact lists,
+the ward diagnosis log and the expense examples; the recorded model attempts at
+de-identifying each record (pre-written by Gemini 3.7 Flash, then curated by the
+authors); `README.md`; and `facilitator_guide.md`.
+
+The Python code in the notebook's code cells and in the HTML file is MIT (see
+LICENSE-CODE). Where record text or a recorded attempt appears as a string
+literal inside a code cell, the text is CC BY 4.0 and the surrounding code is
+MIT.
+
+All records, names, identifiers and incidents are invented for this lesson. No
+real person, patient or event is represented.

@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2026 Davi Pincinato and Paula Dornhofer Paro Costa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Applies to: the Python in the code cells of `can_we_trust_ai_outputs.ipynb` (the
+`Record` and `Result` classes, `verify`, `verify_v2`, `repair_loop`,
+`RecordedGenerator`, `flags_by_unique_diagnosis`, the expense verifiers, the
+widget wiring and the display helpers), and the same Python as embedded in
+`can_we_trust_ai_outputs.html`.
+
+Does not apply to: the prose in the notebook's markdown cells, the SVG figures,
+the text of the four synthetic patient records and of the recorded model
+attempts, which are content and ship under CC BY 4.0 (see LICENSE-CONTENT).
+The string literals holding that text sit inside code cells for convenience;
+the license follows the text, not the cell.
+
+Third-party components bundled into the HTML file (the Pyodide runtime and the
+React library) are not covered by this notice and keep their own licenses.
